@@ -2,4 +2,4 @@
 
 Watch [Demo](https://nguyen-thanh-luan-github.github.io/expanding-cards.github.io/)
 
-*Description:* click on minimized card to expand
+**Description:** click on minimized card to expand
