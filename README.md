@@ -1,5 +1,5 @@
 # expanding-cards
 
-Watch [Demo](https://thanh-luan-nguyen.github.io/expanding-cards/)
+👉 [View demo](https://thanh-luan-nguyen.github.io/expanding-cards/)
 
-**Description:** click on minimized card to expand
+<img src="https://github.com/thanh-luan-nguyen/thanh-luan-nguyen/blob/main/project_preview_gifs/freeCodeCamp/Expanding%20Cards.gif"/>
